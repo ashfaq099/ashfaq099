@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaq099" alt="ashfaq099" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning , Natural language Processing**
+- 🌱 I’m currently learning **Machine Learning , Natural language Processing ,Internet Of Things(IOT)**
 
-- 💬 Ask me about **Android, laravel**
+- 💬 Ask me about **laravel 10,Android **
 
 - 📫 How to reach me **ashfaqurar99@gmail.com**
 
