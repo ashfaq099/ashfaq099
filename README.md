@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , Natural language Processing ,Internet Of Things(IOT)**
 
-- 💬 Ask me about **laravel 10,Android **
+- 💬 Ask me about  laravel 10, Android 
 
 - 📫 How to reach me **ashfaqurar99@gmail.com**
 
