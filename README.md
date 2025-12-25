@@ -6,7 +6,7 @@
 # **Ashfaqur Rahman**
 ### *Machine Learning Researcher & Software Engineer*
 
-> I build ML pipelines and end-to-end systems bridging research and real-world applications.  
+
 
 📍 Bangladesh • 🎓 B.Sc. in Computer Science & Engineering  
 
@@ -74,21 +74,7 @@
 
 ---
 
-## 🚀 **GitHub Overview**
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashfaq099&theme=transparent&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq099&layout=compact&theme=transparent&hide_border=true" height="160"/>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashfaq099" alt="ashfaq099" />
-  </a>
-</p>
-
-</div>
-
----
 
 ## 🌐 **Connect With Me**
 <div align="left">
