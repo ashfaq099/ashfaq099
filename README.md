@@ -4,7 +4,7 @@
 
 
 # **Ashfaqur Rahman**
-### *Machine Learning Researcher & Software Engineer*
+### Prospective PhD Student
 
 
 
@@ -19,7 +19,7 @@
 - Deep Learning  
 - Computer Vision  
 - Natural Language Processing  
-- Human–Computer Interaction  
+
 
 ---
 
@@ -79,7 +79,7 @@
 ## 🌐 **Connect With Me**
 <div align="left">
 
-<a href="mailto:ashfaqurar99@gmail.com" target="_blank">
+<a href="mailto:ashfaqur.rahman.kuet@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
