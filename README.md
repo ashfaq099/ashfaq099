@@ -23,12 +23,6 @@
 
 ---
 
-## 🔬 **Current Focus**
-- Developing ML models for vision & language understanding  
-- Designing efficient dataset pipelines and evaluation workflows  
-- Building HCI-driven tools aimed at accessibility and usability  
-- Deploying ML systems into real-world, production-ready environments  
-
 
 ---
 
